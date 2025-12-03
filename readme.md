@@ -17,7 +17,7 @@ Optional function:
 
 
 ## Experiment
-
+![image](https://github.com/Bill02Chen/Email_Assistant-AI_based/blob/main/Images/example1.png)
 
 
 ## Usage
