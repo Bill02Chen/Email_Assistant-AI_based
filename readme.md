@@ -7,3 +7,10 @@ Email overload is a serious problem in modern life. Users receive a large number
 ## Experiment
 
 ## Usage
+
+## Postscript
+There are two version. 
+One is for api usage, its function is integrated with the GUI. 
+Another is in web-based chat form, it is a workflow agent, the link is https://appbuilder.baidu.com/s/ZLyPu0x2.
+
+The agent development using Baidu's platform.
